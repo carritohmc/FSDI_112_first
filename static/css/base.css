@@ -1,5 +1,5 @@
 h1 { 
-    color: orangered;
+    color: rgb(87, 33, 14);
 }
 
 hr{
@@ -11,6 +11,12 @@ hr{
         margin-right: auto;
         border-style:outset;
         border-width: 3px;
-        color: red; 
+        color: rgb(68, 0, 255); 
 
+}
+
+
+.navbar{
+
+    background-image: url("https://cdn.pixabay.com/photo/2015/02/03/23/41/paper-623167_960_720.jpg") ;
 }

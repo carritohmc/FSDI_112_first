@@ -1,0 +1,24 @@
+h1 { 
+    color: rgb(63, 4, 201);
+}
+
+hr{
+
+
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+        margin-left: auto;
+        margin-right: auto;
+        border-style:outset;
+        border-width: 3px;
+        color: rgb(46, 4, 161); 
+
+}
+
+
+.navbar{
+
+    background-image: url("https://cdn.pixabay.com/photo/2023/04/30/17/27/hexagon-7961035_960_720.jpg") ;
+    font-weight: 600;
+    font-size: large;
+}
